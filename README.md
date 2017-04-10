@@ -13,14 +13,14 @@ meltedice's AutoHotkey configuration
         * Launch Launchy:  Win+Space => Ctrl+ShiftSpace => Launchy
         * Toggle IME:      Alt+Space => Zenkaku/Hankaku
     * windows-desktop-switcher/desktop_switcher.ahk
-        * Switch to Desktop 1:  Win+1
-        * Switch to Desktop 2:  Win+2
-        * Switch to Desktop 3:  Win+3
-        * Switch to Desktop 4:  Win+4
-        * Switch to Desktop 5:  Win+5
-        * Switch to Desktop 6:  Win+6
-        * Switch to Desktop 7:  Win+7
-        * Switch to Desktop 8:  Win+8
+        * Switch to Desktop 1:  Alt+1
+        * Switch to Desktop 2:  Alt+2
+        * Switch to Desktop 3:  Alt+3
+        * Switch to Desktop 4:  Alt+4
+        * Switch to Desktop 5:  Alt+5
+        * Switch to Desktop 6:  Alt+6
+        * Switch to Desktop 7:  Alt+7
+        * Switch to Desktop 8:  Alt+8
 
 ## Update
 
